@@ -6,4 +6,4 @@ made it at school while i was bored and talking to myself, with the worst jokes 
 im not sure if it works.. but you can just read the jokes anyway so theres no reason to acctualy run it....
 uhm
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiwomi&repo=cat-memes)](https://github.com/komiwomi/cat-memes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiwomi&repo=cat-memes&theme=neon)](https://github.com/komiwomi/cat-memes)
